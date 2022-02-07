@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE07SHSM-MFD35-02-PRESFB000-recovered_inst-presf_abc_tide_measurement_recovered
-last_request: '2022-01-21T18:16:11.810934Z'
+last_request: '2022-02-07T17:35:06.413339Z'
 response: https://raw.githubusercontent.com/ooi-data/CE07SHSM-MFD35-02-PRESFB000-recovered_inst-presf_abc_tide_measurement_recovered/main/history/response.json
-status: success
+status: pending
